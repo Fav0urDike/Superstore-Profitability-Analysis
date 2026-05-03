@@ -214,7 +214,7 @@ The store manager should focus on tightening discount control, fixing Furniture 
 
 ## 🗂️ Author
 
-**Favour Tochukwu Dikejiorah **
+#### Favour Tochukwu Dikejiorah 
 
 ---
 
