@@ -115,7 +115,7 @@ _The expression in RANKX is the value used for ranking._
 
 |Image 1| Image 2|
 |---------|----------|
-|![](https://github.com/Fav0urDike/Superstore-Profitability-Analysis/blob/main/CHART%203.png)|  ![](https://github.com/Fav0urDike/Superstore-Profitability-Analysis/blob/main/CHART%204.png)|
+|![](https://github.com/Fav0urDike/Superstore-Profitability-Analysis/blob/main/order%20summ%20tbl.png)|  ![](https://github.com/Fav0urDike/Superstore-Profitability-Analysis/blob/main/superstore%20data.png)|
 
 
 ---
@@ -192,6 +192,8 @@ This suggests that profitability declines as shipping speed increases. The faste
 ---
 
 ## CONCLUSION
+
+![](https://github.com/Fav0urDike/Superstore-Profitability-Analysis/blob/main/Superstore%20Dashboard%20finished.png)
 
 Overall, the store’s performance is being driven more by sales volume than by profit efficiency. The ANALYSIS show that high sales do not always translate into high profit, because discounting and costly fulfillment choices (operational decisions involved in delivering products to customer) are reducing the earnings retained from each sale. 
 The store manager should focus on tightening discount control, fixing Furniture profitability, protecting large-order revenue, and using the most profitable shipping mode where possible. These actions will improve margin, reduce profit erosion, and make the store’s growth more sustainable.
