@@ -205,4 +205,18 @@ The store manager should focus on tightening discount control, fixing Furniture 
 
 ---
 
+## 📂 Project File
+
+- [📥 Download Power BI Report (.pbix)](https://github.com/Fav0urDike/Superstore-Profitability-Analysis/blob/main/Superstore.pbix) – Power BI dashboard file  
+
+  
+---
+
+## 🗂️ Author
+
+**Favour Tochukwu Dikejiorah **
+
+---
+
+
 ![](https://github.com/Fav0urDike/Superstore-Profitability-Analysis/blob/main/thank-you-words-on-notepad-and-office-supplies-free-photo.jpg)
