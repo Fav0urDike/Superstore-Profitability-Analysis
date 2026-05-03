@@ -2,7 +2,7 @@
 
 ---
 
-![](https://github.com/Fav0urDike/Superstore-Profitability-Analysis/blob/main/Superstore%20Dashboard%20finished.png)
+![](https://github.com/Fav0urDike/Superstore-Profitability-Analysis/blob/main/ChatGPT%20Image%20May%203%2C%202026%2C%2003_57_19%20AM.png)
 
 ---
 
